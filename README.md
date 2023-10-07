@@ -7,4 +7,4 @@
 - 💬 Ask me about Java, JavaScript, SQL, Algorithms, Machine-Learning, Android, Web Applications, data integration, and more!
 - 📫 How to reach me: email: aldo.dagio-ortega01@student.csulb.edu, phone: (916) 517-9142
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm an Army Veteran!
+- ⚡ Fun fact: I'm an Army Veteran and I have a Great Dane!
